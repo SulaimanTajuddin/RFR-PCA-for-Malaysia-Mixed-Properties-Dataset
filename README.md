@@ -16,4 +16,5 @@ It finds the main “directions” in which the data varies the most.
 It merges them into new variables called principal components.
 
 👉 Keep only the most important components
+
 The first few components explain most of the variation—so you end up with a simpler dataset.
